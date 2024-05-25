@@ -1,7 +1,7 @@
 # How To Run
 ## Step 1
 ### Install Python
-You Can Install Python From [Here](https://www.python.org/downloads/)
+### You Can Install Python From [Here](https://www.python.org/downloads/)
 ## Step 2
 ### Install The Dependencies
 ### Open Your Command Prompt And Type: `git clone https://github.com/baker675/Facial-Recognition.git` 
